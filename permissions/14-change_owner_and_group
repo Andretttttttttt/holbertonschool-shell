@@ -1,2 +1,2 @@
-#!/bim/biash
+#!/bim/bash
 chown -R vincent:staff .
