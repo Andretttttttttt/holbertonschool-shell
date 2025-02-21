@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "bin" /etc/paswwd | wc -1
+grep "bin" /etc/paswwd | wc -l
